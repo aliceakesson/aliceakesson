@@ -9,4 +9,4 @@
 
 <h3>Other skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ai,arduino,blender,figma,git,github,linux,nodejs,ps,unity,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,blender,figma,git,github,ps,unity,visualstudio,vscode)](https://skillicons.dev)
