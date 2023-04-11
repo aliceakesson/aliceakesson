@@ -2,4 +2,11 @@
 
 <p>I'm a Computer Science student at Lunds University who codes for a passion. I've been coding since approximately 2018, and like to do a variety of projects, larger and smaller, such as games, web utilities and more.</p>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java,js,html,css,scala,py)](https://skillicons.dev)
+<h3>Language skills</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=cs,css,html,java,js,py,scala)](https://skillicons.dev)
+
+
+<h3>Other skills</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=ai,arduino,blender,figma,git,github,linux,nodejs,ps,unity,visualstudio,vscode)](https://skillicons.dev)
