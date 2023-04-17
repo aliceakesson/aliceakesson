@@ -5,8 +5,3 @@
 <h3>Languages</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,css,html,java,js,py,scala)](https://skillicons.dev)
-
-
-<h3>Other skills</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=ai,blender,figma,git,ps,unity,visualstudio,vscode)](https://skillicons.dev)
