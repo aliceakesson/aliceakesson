@@ -4,4 +4,4 @@
 
 <h3>Languages</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,css,html,java,js,py,scala)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,js,py,scala)](https://skillicons.dev)
